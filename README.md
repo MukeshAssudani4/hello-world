@@ -1,1 +1,2 @@
 # hello-world
+ In web design course I aim to create sites that look great, work well on phones and computers, and are easy for everyone to use. I'll keep up with the latest design trends and technology to make sure the websites I build are top-notch. My goal is to help businesses and people have awesome online places that impress visitors.
